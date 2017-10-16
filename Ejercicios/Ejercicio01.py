@@ -1,5 +1,3 @@
-#Ingresar una nota del 1 al 7, si es de 4 hacia arriba mostrar un mensaje de aprobado y en caso contrario mostrar un desaprobado
-
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
@@ -7,6 +5,8 @@ Created on Mon Oct 16 00:36:27 2017
 
 @author: danielmorales
 """
+#Ejercicio 01
+#Ingresar una nota del 1 al 7, si es de 4 hacia arriba mostrar un mensaje de aprobado y en caso contrario mostrar un desaprobado
 
 while nota != 0:
 
